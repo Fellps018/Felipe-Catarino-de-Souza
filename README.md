@@ -1,6 +1,7 @@
-Felipe Catarino de Souza
+<h1>Felipe Catarino de Souza</h1>
 <img src="">
-👋 Sobre Mim
+
+👋 <h2>Sobre Mim</h2>
 Sou estudante do 3º ano do Ensino Médio em busca de uma oportunidade de estágio ou jovem aprendiz. Tenho grande interesse em tecnologia, programação e finanças, buscando sempre aprender e aplicar minhas habilidades para resolver problemas e contribuir com os resultados da empresa.
 
 -----
