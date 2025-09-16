@@ -35,16 +35,15 @@ Busco uma oportunidade de crescimento onde eu possa aplicar minhas habilidades p
 <a href=" "><img src=""> Linkedin</a>
 
 <a href=" "><img src=""> Reddit</a>
-
 <a href=" "><img src=""> DEV.to</a>
-
 <a href=" "><img src=""> RankDevs</a>
-
 <a href=" "><img src=""> Portfólio</a>
 
+----
+
+<h2>Contato:</h2>
 
 Telefone: (15) 99723-8091
-
 E-mail: felipe.catarino.dev@gmail.com
 
 ----
