@@ -10,16 +10,13 @@ Sou estudante do 3º ano do Ensino Médio em busca de uma oportunidade de estág
 Busco uma oportunidade de crescimento onde eu possa aplicar minhas habilidades para a resolução de problemas, aprendendo e contribuindo para os resultados da empresa.
 
 ----
-<h2>🖥 Minhas Skills:</h2>
--Java;
--MySQL;
--SpringBoot;
--PostgreSQL;
--Python;
--Git;
--Excel;
--Git-Hub;
--Cloud.
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <p><img src=""> sdgerg</p>
+  <br>
+   <p><img src=""> heth</p>
+  <br>
+   <p><img src=""> wegwg</p>
+  <br>
 
 ----
 
