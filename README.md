@@ -22,7 +22,7 @@ Busco uma oportunidade de crescimento onde eu possa aplicar minhas habilidades p
 
 <h2>🔗 Links:</h2>
 <div style="display: flex; flex-direction: column; algin-items: space-between;">
-<a href=" "><img src=""> Linkedin</a>  <a href=" "><img src=""> Reddit</a>  <a href=" "><img src=""> DEV.to</a>  <a href=" "><img src=""> RankDevs</a>  <a href=" "><img src=""> Portfólio</a>
+<a color="blue" href=" "><img src=""> Linkedin</a>  <a color="orange" href=" "><img src=""> Reddit</a>  <a href=" "><img src=""> DEV.to</a>  <a href=" "><img src=""> RankDevs</a>  <a href=" "><img src=""> Portfólio</a>
 </div>
 
 ---------
