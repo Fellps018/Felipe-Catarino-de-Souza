@@ -10,7 +10,7 @@ Sou estudante do 3º ano do Ensino Médio em busca de uma oportunidade de estág
 Busco uma oportunidade de crescimento onde eu possa aplicar minhas habilidades para a resolução de problemas, aprendendo e contribuindo para os resultados da empresa.
 
 ----
-<div style="display: flex; flex-wrap: wrap; flex-direction: row; justify-content: center; gap: 15px; margin: 20px 0;">
+<div style="display: flex; flex-wrap: wrap; flex-direction: column; justify-content: center; gap: 15px; margin: 20px 0;">
   <p><img src=""> sdgerg</p>
   <br>
    <p><img src=""> heth</p>
@@ -24,11 +24,8 @@ Busco uma oportunidade de crescimento onde eu possa aplicar minhas habilidades p
 <a href=" "><img src=""> Linkedin</a>
 
 <a href=" "><img src=""> Reddit</a>
-
 <a href=" "><img src=""> DEV.to</a>
-
 <a href=" "><img src=""> RankDevs</a>
-
 <a href=" "><img src=""> Portfólio</a>
 
 ----
