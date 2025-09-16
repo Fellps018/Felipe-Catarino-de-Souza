@@ -11,10 +11,22 @@ Busco uma oportunidade de crescimento onde eu possa aplicar minhas habilidades p
 
 ----
 <h2>🖥 Minhas Skills:</h2>
--Java;              -MySQL;
--SpringBoot;        -PostgreSQL;
--Python;            -Git;
--Excel;             -Git-Hub.
+-Java;              
+
+-MySQL;
+
+-SpringBoot;
+
+-PostgreSQL;
+
+-Python;            
+
+-Git;
+
+-Excel;             
+
+-Git-Hub.
+
 -Cloud;
 
 ----
@@ -23,11 +35,16 @@ Busco uma oportunidade de crescimento onde eu possa aplicar minhas habilidades p
 <a href=" "><img src=""> Linkedin</a>
 
 <a href=" "><img src=""> Reddit</a>
+
 <a href=" "><img src=""> DEV.to</a>
+
 <a href=" "><img src=""> RankDevs</a>
+
 <a href=" "><img src=""> Portfólio</a>
 
+
 Telefone: (15) 99723-8091
+
 E-mail: felipe.catarino.dev@gmail.com
 
 ----
