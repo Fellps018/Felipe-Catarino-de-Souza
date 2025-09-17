@@ -12,12 +12,10 @@ Busco uma oportunidade de crescimento onde eu possa aplicar minhas habilidades p
 ----
 
 <h2>🧑🏻‍💻 Minhas Skills:</h2>
-<div align="right">
-  
-![sdgerg](https://img.shields.io/badge/sdgerg-Expert-blue)  
-![heth](https://img.shields.io/badge/heth-Advanced-green)  
-![wegwg](https://img.shields.io/badge/wegwg-Intermediate-orange)
-
+<div style="display: flex; flex-direction: column; gap: 12px; align-items: flex-start;">
+  <span style="background-color: #1a1a1a; color: #f0f0f0; padding: 8px 16px; border-radius: 20px; font-family: monospace; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">🛠️ sdgerg</span>
+  <span style="background-color: #1a1a1a; color: #f0f0f0; padding: 8px 16px; border-radius: 20px; font-family: monospace; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">⚡ heth</span>
+  <span style="background-color: #1a1a1a; color: #f0f0f0; padding: 8px 16px; border-radius: 20px; font-family: monospace; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">🔧 wegwg</span>
 </div>
 
 --------
