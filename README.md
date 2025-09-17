@@ -1,4 +1,4 @@
-<h1>Felipe Catarino de Souza</h1>
+<h1></Felipe Catarino de Souza></h1>
 <img src="2022-Todays-Industries-using-Java-Application.png">
 
 <h2>👋 Sobre Mim:</h2>
@@ -12,10 +12,10 @@ Busco uma oportunidade de crescimento onde eu possa aplicar minhas habilidades p
 ----
 
 <h2>🧑🏻‍💻 Minhas Skills:</h2>
-<div style="display: flex; flex-direction: column; gap: 12px; align-items: flex-start;">
-  <span style="background-color: #1a1a1a; color: #f0f0f0; padding: 8px 16px; border-radius: 20px; font-family: monospace; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">🛠️ sdgerg</span>
-  <span style="background-color: #1a1a1a; color: #f0f0f0; padding: 8px 16px; border-radius: 20px; font-family: monospace; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">⚡ heth</span>
-  <span style="background-color: #1a1a1a; color: #f0f0f0; padding: 8px 16px; border-radius: 20px; font-family: monospace; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">🔧 wegwg</span>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; justify-content: start;">
+  <span style="background-color: #1a1a1a; color: #f0f0f0; padding: 8px 16px; border-radius: 20px; font-family: monospace; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;">sdgerg</span>
+  <span style="background-color: #1a1a1a; color: #f0f0f0; padding: 8px 16px; border-radius: 20px; font-family: monospace; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;">heth</span>
+  <span style="background-color: #1a1a1a; color: #f0f0f0; padding: 8px 16px; border-radius: 20px; font-family: monospace; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center; grid-column: span 2;">wegwg</span>
 </div>
 
 --------
@@ -32,7 +32,7 @@ Busco uma oportunidade de crescimento onde eu possa aplicar minhas habilidades p
 
 ---------
 
-<h2>Contato:</h2>
+<h2>📞 Contato:</h2>
 
 Telefone: (15) 99723-8091
 
