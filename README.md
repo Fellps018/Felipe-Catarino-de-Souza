@@ -35,7 +35,6 @@ Busco uma oportunidade de crescimento onde eu possa aplicar minhas habilidades p
 <h2>📞 Contato:</h2>
 
 Telefone: (15) 99723-8091
-
 E-mail: felipe.catarino.dev@gmail.com
 
 ----
