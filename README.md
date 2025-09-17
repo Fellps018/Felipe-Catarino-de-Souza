@@ -10,6 +10,8 @@ Sou estudante do 3º ano do Ensino Médio em busca de uma oportunidade de estág
 Busco uma oportunidade de crescimento onde eu possa aplicar minhas habilidades para a resolução de problemas, aprendendo e contribuindo para os resultados da empresa.
 
 ----
+
+<h2>🧑🏻‍💻 Minhas Skills:</h2>
 <div style="display: flex; flex-wrap: wrap; flex-direction: column; justify-content: center; gap: 15px; margin: 20px 0;">
   <p><img src=""> sdgerg</p>
   <br>
@@ -17,13 +19,19 @@ Busco uma oportunidade de crescimento onde eu possa aplicar minhas habilidades p
   <br>
    <p><img src=""> wegwg</p>
   <br>
+</div>
 
 --------
 
-<h2>🔗 Links:</h2>
-<div style="display: flex; flex-direction: column; algin-items: space-between;">
-<a color="blue" href=" "><img src=""> Linkedin</a>  <a color="orange" href=" "><img src=""> Reddit</a>  <a href=" "><img src=""> DEV.to</a>  <a href=" "><img src=""> RankDevs</a>  <a href=" "><img src=""> Portfólio</a>
-</div>
+<h2 align="center">🔗 Links:</h2>
+<p align="center">
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a> 
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to"></a> 
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/RankDevs-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="RankDevs"></a> 
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=circle&logoColor=white" alt="Portfolio"></a>
+</p>
+
 
 ---------
 
