@@ -6,11 +6,6 @@ Sou estudante do 3º ano do Ensino Médio em busca de uma oportunidade de estág
 
 -----
 
-<h2>🎯 Objetivo:</h2>
-Busco uma oportunidade de crescimento onde eu possa aplicar minhas habilidades para a resolução de problemas, aprendendo e contribuindo para os resultados da empresa.
-
-----
-
 <h2>🧑🏻‍💻 Minhas Skills:</h2>
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; justify-content: start;">
   <span style="background-color: #1a1a1a; color: #f0f0f0; padding: 8px 16px; border-radius: 20px; font-family: monospace; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;">sdgerg</span>
