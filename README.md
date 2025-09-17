@@ -22,11 +22,11 @@ Busco uma oportunidade de crescimento onde eu possa aplicar minhas habilidades p
 
 <h2 align="center">🔗 Links:</h2>
 <p align="center">
-  <a href=" " target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-  <a href=" " target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a> 
-  <a href=" " target="_blank"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to"></a> 
-  <a href=" " target="_blank"><img src="https://img.shields.io/badge/RankDevs-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="RankDevs"></a> 
-  <a href=" " target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=circle&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/felipe-catarino-de-souza-8a0907373" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+  <a href="https://www.reddit.com/user/Fellps017" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a> 
+  <a href="https://dev.to/fellps017" target="_blank"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to"></a> 
+  <a href="https://www.rankdevs.com/Fellps018" target="_blank"><img src="https://img.shields.io/badge/RankDevs-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="RankDevs"></a> 
+  <a href="https://fellps018.github.io/portifolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=circle&logoColor=white" alt="Portfolio"></a>
 </p>
 
 
