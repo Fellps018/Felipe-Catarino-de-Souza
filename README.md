@@ -2,7 +2,8 @@
 <img src="2022-Todays-Industries-using-Java-Application.png">
 
 <h2>👋 Sobre Mim:</h2>
-Sou estudante do 3º ano do Ensino Médio em busca de uma oportunidade de estágio ou jovem aprendiz. Tenho grande interesse em tecnologia, programação e finanças, buscando sempre aprender e aplicar minhas habilidades para resolver problemas e contribuir com os resultados da empresa.
+Sou estudante do 3º ano do Ensino Médio. Tenho um grande interesse em Tecnologia da informação (TI), como funciona a troca de informações por meio da rede — todo tipo de rede e transferência — também o relacionamento de hardware e software sem contar nos sistemas operacionais, como: Linux e suas demais distribuição.
+Atualmente uso o Linux Mint para uso pessoal, e no que isso me impactou, foi em como ele é leve e versátil.
 
 -----
 
