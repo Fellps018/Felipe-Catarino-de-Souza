@@ -20,6 +20,10 @@ Como estudante do 3º ano do Ensino Médio, direcionei meu forte interesse por T
     <img src="python.png" width="20" height="20" alt="Python" />
     <span>Python</span>
   </div>
+    <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
+    <img src="excel.png" width="20" height="20" alt="Spring Boot" />
+    <span>Excel</span>
+  </div>
   <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
     <img src="dados.png" width="20" height="20" alt="MySQL" />
     <span>MySQL</span>
