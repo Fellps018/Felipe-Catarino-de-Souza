@@ -2,16 +2,27 @@
 <img src="2022-Todays-Industries-using-Java-Application.png">
 
 <h2>👋 Sobre Mim:</h2>
-Sou estudante do 3º ano do Ensino Médio. Tenho um grande interesse em Tecnologia da informação (TI), como funciona a troca de informações por meio da rede — todo tipo de rede e transferência — também o relacionamento de hardware e software — principalmente em aplicativos — sem contar nos sistemas operacionais, como: Linux e suas demais distribuições.
-Atualmente uso o Linux Mint para uso pessoal, e no que isso me impactou, foi em como ele é leve e versátil.
-
+Como estudante do 3º ano do Ensino Médio, direcionei meu forte interesse por Tecnologia da Informação para o estudo autodidata de infraestrutura de redes, protocolos de comunicação e sistemas operacionais baseados em Linux. Minha experiência prática utilizando o Linux Mint solidificou meu entendimento sobre performance e estabilidade de sistemas, e estou ansioso para aplicar e expandir esses conhecimentos em um curso técnico ou faculdade.
 -----
 
 <h2>🧑🏻‍💻 Minhas Skills:</h2>
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; justify-content: start;">
-  <span style="background-color: #1a1a1a; color: #f0f0f0; padding: 8px 16px; border-radius: 20px; font-family: monospace; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;">sdgerg</span>
-  <span style="background-color: #1a1a1a; color: #f0f0f0; padding: 8px 16px; border-radius: 20px; font-family: monospace; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;">heth</span>
-  <span style="background-color: #1a1a1a; color: #f0f0f0; padding: 8px 16px; border-radius: 20px; font-family: monospace; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center; grid-column: span 2;">wegwg</span>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin: 20px 0;">
+  <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" />
+    <span>JavaScript</span>
+  </div>
+  <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" />
+    <span>Python</span>
+  </div>
+  <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" />
+    <span>React</span>
+  </div>
+  <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20" />
+    <span>Node.js</span>
+  </div>
 </div>
 
 --------
