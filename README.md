@@ -17,7 +17,7 @@ Como estudante do 3º ano do Ensino Médio, direcionei meu forte interesse por T
     <span>Spring Boot</span>
   </div>
     <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
-    <img src="nuvem.png" width="20" height="20" alt="Spring Boot" />
+    <img src="nuvem.png" width="20" height="20" alt="Cloud" />
     <span>Cloud</span>
   </div>
   <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
@@ -25,7 +25,7 @@ Como estudante do 3º ano do Ensino Médio, direcionei meu forte interesse por T
     <span>Python</span>
   </div>
     <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
-    <img src="excel.png" width="20" height="20" alt="Spring Boot" />
+    <img src="excel.png" width="20" height="20" alt="Excel" />
     <span>Excel</span>
   </div>
   <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
@@ -41,7 +41,7 @@ Como estudante do 3º ano do Ensino Médio, direcionei meu forte interesse por T
     <span>Git</span>
   </div>
     <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
-    <img src="docker.png" width="20" height="20" alt="Spring Boot" />
+    <img src="docker.png" width="20" height="20" alt="Docker" />
     <span>Docker</span>
   </div>
   <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
