@@ -1,5 +1,8 @@
 <h1><span>Felipe Catarino de Souza</span></h1>
-<video src="server.mp4" width="160px" heitgh="140px"></video>
+<video width="160" height="120" controls>
+  <source src="server.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 <h2>👋 Sobre Mim:</h2>
 Como estudante do 3º ano do Ensino Médio, direcionei meu forte interesse por Tecnologia da Informação para o estudo autodidata de infraestrutura de redes, protocolos de comunicação e sistemas operacionais baseados em Linux. Minha experiência prática utilizando o Linux Mint solidificou meu entendimento sobre performance e estabilidade de sistemas, e estou ansioso para aplicar e expandir esses conhecimentos em um curso técnico ou faculdade.
