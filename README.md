@@ -3,12 +3,13 @@
 
 <h2>👋 Sobre Mim:</h2>
 Como estudante do 3º ano do Ensino Médio, direcionei meu forte interesse por Tecnologia da Informação para o estudo autodidata de infraestrutura de redes, protocolos de comunicação e sistemas operacionais baseados em Linux. Minha experiência prática utilizando o Linux Mint solidificou meu entendimento sobre performance e estabilidade de sistemas, e estou ansioso para aplicar e expandir esses conhecimentos em um curso técnico ou faculdade.
+
 -----
 
 <h2>🧑🏻‍💻 Minhas Skills:</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin: 20px 0;">
   <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20" alt="Java" />
+    <img src="java.png" width="20" height="20" alt="Java" />
     <span>Java</span>
   </div>
   <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
