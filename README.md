@@ -13,27 +13,27 @@ Como estudante do 3º ano do Ensino Médio, direcionei meu forte interesse por T
     <span>Java</span>
   </div>
   <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20" height="20" alt="Spring Boot" />
+    <img src="spring.png" width="20" height="20" alt="Spring Boot" />
     <span>Spring Boot</span>
   </div>
   <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" alt="Python" />
+    <img src="python.png" width="20" height="20" alt="Python" />
     <span>Python</span>
   </div>
   <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20" alt="MySQL" />
+    <img src="dados.png" width="20" height="20" alt="MySQL" />
     <span>MySQL</span>
   </div>
   <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" alt="PostgreSQL" />
+    <img src="dados.png" width="20" height="20" alt="PostgreSQL" />
     <span>PostgreSQL</span>
   </div>
   <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" alt="Git" />
+    <img src="git.png" width="20" height="20" alt="Git" />
     <span>Git</span>
   </div>
   <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" alt="GitHub" />
+    <img src="github.png" width="20" height="20" alt="GitHub" />
     <span>GitHub</span>
   </div>
 </div>
