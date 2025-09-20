@@ -16,6 +16,10 @@ Como estudante do 3º ano do Ensino Médio, direcionei meu forte interesse por T
     <img src="spring.png" width="20" height="20" alt="Spring Boot" />
     <span>Spring Boot</span>
   </div>
+    <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
+    <img src="nuvem.png" width="20" height="20" alt="Spring Boot" />
+    <span>Cloud</span>
+  </div>
   <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
     <img src="python.png" width="20" height="20" alt="Python" />
     <span>Python</span>
@@ -35,6 +39,10 @@ Como estudante do 3º ano do Ensino Médio, direcionei meu forte interesse por T
   <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
     <img src="git.png" width="20" height="20" alt="Git" />
     <span>Git</span>
+  </div>
+    <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
+    <img src="docker.png" width="20" height="20" alt="Spring Boot" />
+    <span>Docker</span>
   </div>
   <div style="background-color: #1a1a1a; color: #f0f0f0; padding: 12px; border-radius: 12px; font-family: monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
     <img src="github.png" width="20" height="20" alt="GitHub" />
